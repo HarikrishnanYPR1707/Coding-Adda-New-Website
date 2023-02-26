@@ -1,10 +1,14 @@
 import React from 'react';
+import Navbar from '../components/Navbar/Navbar';
 
 const index = () => {
 	return (
 		<>
-			{/* <Navbar /> */}
+			<Navbar />
 			{/* <HeroSection /> */}
+			{/* <Service /> */}
+			{/* <Tutorial /> */}
+			{/* <footer /> */}
 		</>
 	)
 }
